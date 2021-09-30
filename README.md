@@ -15,7 +15,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" width="20"/> [Java](https://www.java.com/pt-BR/)
 
-
 ## 📷 Video Demonstrativo
 <div>
 <a href="https://youtu.be/JzqCndq-qWk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -28,8 +27,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 	<img src="https://firebasestorage.googleapis.com/v0/b/apostas-e1af2.appspot.com/o/java%2Fseries%2Fmedio.png?alt=media&token=b018328a-96a6-41bf-a5d4-e1f3f2fb4f7d" width="200">
 	<img src="https://firebasestorage.googleapis.com/v0/b/apostas-e1af2.appspot.com/o/java%2Fseries%2Fsusto.png?alt=media&token=6ce0486a-c821-4a33-8dac-f50c4a292073" width="200">
 </p>
-
-
 
 ## 📱 Plataforma adotada
 
