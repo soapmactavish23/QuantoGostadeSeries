@@ -1,16 +1,23 @@
 # Quanto Gosta de Séries
 
-## Descrição
+## 📚 Descrição
 Som dos Bichos é um App para Android, com o objetivo de mostrar o uso de sons em apps para Android, ao clicar nos animais o respectivo som toca.
 
-## Video Demonstrativo:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/JzqCndq-qWk)
+## 🛠 Tecnologias
 
-## Download do App
-[App](https://drive.google.com/file/d/1R1FyUawPq4t80iX4_Jd4wcg0Q9l03hTk/view?usp=sharing)
+As seguintes ferramentas foram usadas na construção do projeto:
 
-## Plataforma Adotada: 
-  - Android
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" width="20"/> [Java](https://www.java.com/pt-BR/)
 
-## Linguagem: 
-  - Java
+
+## 📷 Video Demonstrativo
+<div>
+<a href="https://youtu.be/JzqCndq-qWk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
+
+## 📱 Plataforma adotada
+
+  - Android;
+
+## 📥 Download
+[App](https://drive.google.com/file/d/1jV85wnCP8E8eNkJvEUOLL_o8u-71YT08/view?usp=sharing)
