@@ -21,7 +21,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://youtu.be/JzqCndq-qWk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-## 📷 Screenshot
+## 📸 Screenshot
+
+<p float="left">
+	<img src="https://firebasestorage.googleapis.com/v0/b/apostas-e1af2.appspot.com/o/java%2Fseries%2Fpouco.png?alt=media&token=9b564264-bbb8-4525-a515-fc6bbac2e9f5" width="200">
+	<img src="https://firebasestorage.googleapis.com/v0/b/apostas-e1af2.appspot.com/o/java%2Fseries%2Fmedio.png?alt=media&token=b018328a-96a6-41bf-a5d4-e1f3f2fb4f7d" width="200">
+	<img src="https://firebasestorage.googleapis.com/v0/b/apostas-e1af2.appspot.com/o/java%2Fseries%2Fsusto.png?alt=media&token=6ce0486a-c821-4a33-8dac-f50c4a292073" width="200">
+</p>
+
 
 
 ## 📱 Plataforma adotada
