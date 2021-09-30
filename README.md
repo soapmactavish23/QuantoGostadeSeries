@@ -1,4 +1,10 @@
-# Quanto Gosta de Séries
+<h1 align="center">
+   <img src="https://firebasestorage.googleapis.com/v0/b/apostas-e1af2.appspot.com/o/java%2Fseries%2Fmuito.png?alt=media&token=ac78fefc-4fac-4985-8aad-cb05d518f023" width="200">
+</h1>
+
+<h4 align="center"> 
+	🚧 Quanto Gosta de Séries? 🚀 Concluido...  🚧
+</h4>
 
 ## 📚 Descrição
 Som dos Bichos é um App para Android, com o objetivo de mostrar o uso de sons em apps para Android, ao clicar nos animais o respectivo som toca.
@@ -14,6 +20,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <div>
 <a href="https://youtu.be/JzqCndq-qWk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
+
+## 📷 Screenshot
+
 
 ## 📱 Plataforma adotada
 
